@@ -64,8 +64,3 @@ buildNumber.properties
 
 # "temporary" build files
 /target
-
-#keystore
-/resources/*.p12
-src/main/resources/static/
-src/main/resources/templates/
