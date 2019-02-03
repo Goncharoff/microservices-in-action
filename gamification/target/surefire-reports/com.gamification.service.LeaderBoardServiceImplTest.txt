@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.gamification.service.LeaderBoardServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.094 s <<< FAILURE! - in com.gamification.service.LeaderBoardServiceImplTest
+retriveLeaderBoardTest(com.gamification.service.LeaderBoardServiceImplTest)  Time elapsed: 0 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[LeaderBoardRow(userId=1, totalScore=300)]> but was:<[[LeaderBoardRow(userId=1, totalScore=300)]]>
+	at com.gamification.service.LeaderBoardServiceImplTest.retriveLeaderBoardTest(LeaderBoardServiceImplTest.java:44)
+

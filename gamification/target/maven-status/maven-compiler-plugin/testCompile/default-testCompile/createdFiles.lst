@@ -1,0 +1,5 @@
+com\gamification\controller\UserStatsControllerTest.class
+com\gamification\event\EventHandlerTest.class
+com\gamification\controller\LeaderBoardControllerClass.class
+com\gamification\service\GameServiceImplTest.class
+com\gamification\service\LeaderBoardServiceImplTest.class
