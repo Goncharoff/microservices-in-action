@@ -67,5 +67,3 @@ buildNumber.properties
 
 #keystore
 /resources/*.p12
-src/main/resources/static/
-src/main/resources/templates/
