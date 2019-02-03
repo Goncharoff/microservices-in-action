@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="809738da-1246-43f7-959b-53a581eea25b" name="Default Changelist" comment="" />
+    <list default="true" id="809738da-1246-43f7-959b-53a581eea25b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservices-in-action-book/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../microservices-in-action-book/.gitignore" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../microservices-in-action-book/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,7 +15,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../microservices-in-action-book/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,7 +65,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../microservices-in-action-book/pom.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/gamification/GamificationApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gamification/domain/LeaderBoardRaw.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gamification/service/GameService.java" />
@@ -85,6 +107,7 @@
         <option value="$PROJECT_DIR$/../microservices-in-action-book/src/main/resources/static/multiplication-client.js" />
         <option value="$PROJECT_DIR$/../microservices-in-action-book/src/main/resources/static/style.css" />
         <option value="$PROJECT_DIR$/../microservices-in-action-book/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -122,13 +145,37 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gamification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamification" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices-in-action-book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices-in-action-book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549235070233" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549235127612" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../microservices-in-action-book" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -290,7 +337,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -327,16 +375,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gamification/configuration/RabbitMQConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="49" column="100" selection-start-line="49" selection-start-column="100" selection-end-line="49" selection-end-column="100" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gamification/configuration/RestClientConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -750,7 +788,14 @@
     <entry file="file://$PROJECT_DIR$/../microservices-in-action-book/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
